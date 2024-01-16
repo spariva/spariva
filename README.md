@@ -1,6 +1,6 @@
 ## Welcome 😄
 
-### 👋 Hi, I'm Maki!
+### Hi, I'm Maki!
 👩🏻‍💻 On my way to become a full stack developer<br/>
 🎨 From design and photography, to programming<br/>
 

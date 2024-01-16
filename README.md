@@ -1,9 +1,9 @@
-### Welcome 😄
+## Welcome 😄
 
-# 👋 Hi, I'm Maki!
+### 👋 Hi, I'm Maki!
 👩🏻‍💻 On my way to become a full stack developer<br/>
-🎨 From design and photography, to the programming world<br/>
-👩🏻‍🎓 Studied Web Development at Juan de la Cierva, Spain<br/><br/>
+🎨 From design and photography, to programming<br/>
+
 🔭 Working on [Music-Life](https://github.com/spariva/Music-Life) and [DAW2](https://github.com/spariva/DAW2)<br/>
 ♞✨ Passionate about art and chess<br/>
 💭 Curiosity drives me<br/>

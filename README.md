@@ -10,6 +10,8 @@
 - 🚀 Curiosity drives me
 
 - ⚗️ Working on [Music-Life](https://github.com/spariva/Music-Life) and [DAW2](https://github.com/spariva/DAW2)
+  
+- Creating a programming wiki here: [Wiki](https://spariva.notion.site/spariva/Wiki-de-programaci-n-1cf2c133a0ee4155907f022d9fcf3315)
 
 <a href="https://github.com/spariva/Music-Life">
   <picture>

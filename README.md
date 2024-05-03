@@ -1,17 +1,15 @@
 ## Welcome 🌈
 
 ### Hi, I'm Maki!
-- ✨ On my way to become a full stack developer
+- ✨ Becoming a full stack developer
 
-- 🌌 From design and photography, to programming
-
-- 🧠 Passionate about art and chess
+- 🌌 Passionate about art, design and chess
 
 - 🚀 Curiosity drives me
 
-- ⚗️ Working on [Music-Life](https://github.com/spariva/Music-Life) and [DAW2](https://github.com/spariva/DAW2)
+- ⚗️ Currently creating a music social network [Music-Life](https://github.com/spariva/Music-Life) and a veggie recipes site/social network [Veggie Vibe](https://github.com/spariva/VeggieVibe)
   
-- Creating a programming wiki here: [Wiki](https://spariva.notion.site/spariva/Wiki-de-programaci-n-1cf2c133a0ee4155907f022d9fcf3315)
+- Creating a programming wiki here: [Wiki](https://spariva.notion.site/spariva/Wiki-de-programaci-n-1cf2c133a0ee4155907f022d9fcf3315) (working on AI prompting right now).
 
 <a href="https://github.com/spariva/Music-Life">
   <picture>

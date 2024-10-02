@@ -1,7 +1,7 @@
 ## Welcome 🌈
 
 ### Hi, I'm Maki!
-- ✨ Becoming a full stack developer
+- ✨ Becoming a fullstack developer. I've studied DAW (web dev) and Tajamar's Fullstack Multicloud Master.
 
 - 🌌 Passionate about art, design and chess
 

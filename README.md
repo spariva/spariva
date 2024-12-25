@@ -1,6 +1,6 @@
 ## Welcome 🌈
 
-### Hi, I'm Maki!
+### Hi, I'm Maki Spariva!
 - ✨ Becoming a fullstack developer. I've studied DAW (web dev) and Tajamar's Fullstack Multicloud Master.
 
 - 🌌 Passionate about art, design and chess

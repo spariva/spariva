@@ -5,9 +5,9 @@
 
 - 🌌 Passionate about art, design and chess
   
-- My programming wiki here: [Wiki](https://spariva.notion.site/spariva/Wiki-de-programaci-n-1cf2c133a0ee4155907f022d9fcf3315) (working on AI prompting right now).
+- My programming wiki here: [Wiki](https://spariva.notion.site/spariva/Wiki-de-programaci-n-1cf2c133a0ee4155907f022d9fcf3315) (working on AI prmpting, NPL, and RAG right now).
 
-<a href="https://github.com/spariva/Music-Life">
+
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=spariva&hide=contribs&show_icons=true&theme=tokyonight&show=prs_merged_percentage&rank_icon=github&border_color=744cb0"
@@ -19,8 +19,7 @@
   />
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=spariva&hide=contribs&show_icons=true&theme=calm&show=prs_merged_percentage&rank_icon=github&border_color=744cb0" />
   </picture>
-</a>
-<a href="https://github.com/spariva/DAW2">
+
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=spariva&hide_progress=true&langs_count=8&card_width=320&theme=tokyonight&border_color=744cb0"
@@ -32,4 +31,4 @@
     />
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spariva&hide_progress=true&langs_count=8&card_width=320&theme=calm&border_color=744cb0" />
   </picture>
-</a>
+

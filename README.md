@@ -3,11 +3,9 @@
 ### Hi, I'm Maki Spariva!
 - ✨ Fullstack developer. I've studied DAW (web dev) and Tajamar's Fullstack Multicloud Master.
 
-- 🌌 Passionate about art, design and chess
-
-- 🚀 Curiosity drives me
-
 - ⚗️ Currently creating a music social network [Music-Life](https://github.com/spariva/Music-Life) and a multi-ecommerce portal [e-Shop](https://github.com/spariva/Eshop)
+
+- 🌌 Passionate about art, design and chess
   
 - My programming wiki here: [Wiki](https://spariva.notion.site/spariva/Wiki-de-programaci-n-1cf2c133a0ee4155907f022d9fcf3315) (working on AI prompting right now).
 

@@ -1,6 +1,4 @@
-## Welcome 🌈
-
-### Hi, I'm Maki Spariva!
+## Hi, I'm Maki Spariva 🌈
 - ✨ Fullstack developer. I've studied DAW (web dev) and Tajamar's Fullstack Multicloud Master.
 
 - ⚗️ Currently creating a music social network [Music-Life](https://github.com/spariva/Music-Life) and a multi-ecommerce portal [e-Shop](https://github.com/spariva/Eshop)
